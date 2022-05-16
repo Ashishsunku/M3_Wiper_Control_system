@@ -1,3 +1,7 @@
-##  FLOWCHART  ##
+##  HIGH LEVEL FLOWCHART  ##
 
-![usercase](https://github.com/Ashishsunku/practise/blob/3270a0a3104c3c44179d9854da4b837974be381b/FLOW%20CHART.png)
+![usercase](https://github.com/Ashishsunku/practise/blob/4ddd3f854987483cdc1795a6f13a4e0e67e29f8a/hlfc.png)
+
+
+## LOW LEVEL FLOWCHART ##
+![usercase](https://github.com/Ashishsunku/practise/blob/4ddd3f854987483cdc1795a6f13a4e0e67e29f8a/llfc.png)
