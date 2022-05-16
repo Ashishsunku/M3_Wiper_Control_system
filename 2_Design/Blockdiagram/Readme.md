@@ -1,3 +1,3 @@
 # BLOCK DIAGRAM #
 
-![usercase](https://github.com/Ashishsunku/practise/blob/fa8c34a0e565e423c35c99d82d0393526a82a1a4/blockdiagram.png)
+![usercase](https://github.com/Ashishsunku/practise/blob/4ddd3f854987483cdc1795a6f13a4e0e67e29f8a/bd.png)
