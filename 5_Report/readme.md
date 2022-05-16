@@ -23,6 +23,26 @@ furthermore, environment nation are dealing with the issues respects to the wipe
   * This module can be found in a variety of household products.
 
 
+
+# BLOCK DIAGRAM #
+
+![usercase](https://github.com/Ashishsunku/practise/blob/4ddd3f854987483cdc1795a6f13a4e0e67e29f8a/bd.png)
+
+
+##  HIGH LEVEL FLOWCHART  ##
+
+![usercase](https://github.com/Ashishsunku/practise/blob/4ddd3f854987483cdc1795a6f13a4e0e67e29f8a/hlfc.png)
+
+
+## LOW LEVEL FLOWCHART ##
+![usercase](https://github.com/Ashishsunku/practise/blob/4ddd3f854987483cdc1795a6f13a4e0e67e29f8a/llfc.png)
+
+
+## SCHEMATIC DIAGRAM ##
+
+![usercase](https://github.com/Ashishsunku/practise/blob/4ddd3f854987483cdc1795a6f13a4e0e67e29f8a/sd.png)
+
+
 ## WORKING PRINCIPLE ##
 # Ignition Key Position at ACC :
 The Red LED is ON, if the user button is pressed and held for 2 secs
